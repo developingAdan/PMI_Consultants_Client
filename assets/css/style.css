@@ -670,7 +670,7 @@ section {
 }
 
 .features .container {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
 }
 
@@ -1236,7 +1236,7 @@ section {
 }
 
 .team .row {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: flex;
   justify-content: center;
 }
